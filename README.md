@@ -5,6 +5,7 @@
 
 Para revisar el código de automatización de las pruebas front y las validaciones de los endpoints, puedes dirigirte directamente a la siguiente ruta dentro del repositorio:
 
+```text
 Juan-Araya-QA-Engineer-Challenge/
 ├── 📁 cypress/
 │   ├── 📁 e2e/
@@ -15,6 +16,7 @@ Juan-Araya-QA-Engineer-Challenge/
 ├── .gitignore
 ├── cypress.config.js
 └── package.json
+```
 
 ## 🛠️ Tecnologías y Herramientas
 * **Framework Principal:** [Cypress](https://cypress.io) (v13+)
