@@ -1,6 +1,6 @@
 ## 📁 Estructura del Proyecto y Ubicación de las Pruebas
 
-# Pruebas Front Automation Challenge 🚀 -- Carpeta 
+# Pruebas Front Automation Challenge 🚀 
 # PokeAPI Test Automation Challenge 🚀
 
 Para revisar el código de automatización de las pruebas front y las validaciones de los endpoints, puedes dirigirte directamente a la siguiente ruta dentro del repositorio:
